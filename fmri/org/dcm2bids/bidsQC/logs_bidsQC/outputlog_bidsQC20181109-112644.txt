@@ -1,0 +1,3785 @@
+
+Script ran on 82 subject directories
+
+
+--------------------
+sub-PC001
+--------------------
+
+ EXISTS: sub-PC001 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC001 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC001 
+
+-------------------- checking number of files --------------------
+OK: sub-PC001 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC001 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC001 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC001 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC001 
+
+-------------------- checking number of files --------------------
+OK: sub-PC001 has correct number of T1w json files in ses-wave1.
+OK: sub-PC001 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC001 
+
+-------------------- checking number of files --------------------
+OK: sub-PC001 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC001 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC001 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC001 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC001 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC001 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC001 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC001 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC001 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC001 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC001 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC001 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC002
+--------------------
+
+ EXISTS: sub-PC002 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC002 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC002 
+
+-------------------- checking number of files --------------------
+OK: sub-PC002 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC002 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC002 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC002 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC002 
+
+-------------------- checking number of files --------------------
+OK: sub-PC002 has correct number of T1w json files in ses-wave1.
+OK: sub-PC002 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC002 
+
+-------------------- checking number of files --------------------
+OK: sub-PC002 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC002 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC002 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC002 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC002 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC002 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC002 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC002 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC002 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC002 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC002 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC002 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC003
+--------------------
+
+ EXISTS: sub-PC003 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC003 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC003 
+
+-------------------- checking number of files --------------------
+OK: sub-PC003 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC003 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC003 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC003 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC003 
+
+-------------------- checking number of files --------------------
+OK: sub-PC003 has correct number of T1w json files in ses-wave1.
+OK: sub-PC003 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC003 
+
+-------------------- checking number of files --------------------
+OK: sub-PC003 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC003 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC003 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC003 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC003 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC003 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC003 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC003 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC003 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC003 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC003 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC003 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC004
+--------------------
+
+ EXISTS: sub-PC004 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC004 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC004 
+
+-------------------- checking number of files --------------------
+OK: sub-PC004 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC004 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC004 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC004 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC004 
+
+-------------------- checking number of files --------------------
+OK: sub-PC004 has correct number of T1w json files in ses-wave1.
+OK: sub-PC004 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC004 
+
+-------------------- checking number of files --------------------
+OK: sub-PC004 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC004 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC004 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC004 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC004 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC004 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC004 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC004 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC004 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC004 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC004 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC004 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC005
+--------------------
+
+ EXISTS: sub-PC005 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC005 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC005 
+
+-------------------- checking number of files --------------------
+OK: sub-PC005 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC005 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC005 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC005 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC005 
+
+-------------------- checking number of files --------------------
+OK: sub-PC005 has correct number of T1w json files in ses-wave1.
+OK: sub-PC005 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC005 
+
+-------------------- checking number of files --------------------
+OK: sub-PC005 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC005 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC005 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC005 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC005 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC005 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC005 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC005 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC005 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC005 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC005 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC005 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC006
+--------------------
+
+ EXISTS: sub-PC006 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC006 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC006 
+
+-------------------- checking number of files --------------------
+OK: sub-PC006 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC006 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC006 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC006 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC006 
+
+-------------------- checking number of files --------------------
+OK: sub-PC006 has correct number of T1w json files in ses-wave1.
+OK: sub-PC006 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC006 
+
+-------------------- checking number of files --------------------
+OK: sub-PC006 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC006 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC006 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC006 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC006 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC006 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC006 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC006 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC006 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC006 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC006 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC006 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC007
+--------------------
+
+ EXISTS: sub-PC007 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC007 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC007 
+
+-------------------- checking number of files --------------------
+OK: sub-PC007 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC007 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC007 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC007 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC007 
+
+-------------------- checking number of files --------------------
+OK: sub-PC007 has correct number of T1w json files in ses-wave1.
+OK: sub-PC007 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC007 
+
+-------------------- checking number of files --------------------
+OK: sub-PC007 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC007 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC007 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC007 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC007 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC007 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC007 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC007 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC007 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC007 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC007 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC007 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC008
+--------------------
+
+ EXISTS: sub-PC008 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC008 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC008 
+
+-------------------- checking number of files --------------------
+OK: sub-PC008 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC008 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC008 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC008 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC008 
+
+-------------------- checking number of files --------------------
+OK: sub-PC008 has correct number of T1w json files in ses-wave1.
+OK: sub-PC008 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC008 
+
+-------------------- checking number of files --------------------
+OK: sub-PC008 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC008 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC008 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC008 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC008 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC008 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC008 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC008 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC008 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC008 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC008 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC008 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC009
+--------------------
+
+ EXISTS: sub-PC009 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC009 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC009 
+
+-------------------- checking number of files --------------------
+OK: sub-PC009 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC009 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC009 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC009 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC009 
+
+-------------------- checking number of files --------------------
+OK: sub-PC009 has correct number of T1w json files in ses-wave1.
+OK: sub-PC009 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC009 
+
+-------------------- checking number of files --------------------
+OK: sub-PC009 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC009 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC009 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC009 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC009 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC009 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC009 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC009 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC009 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC009 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC009 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC009 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC010
+--------------------
+
+ EXISTS: sub-PC010 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC010 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC010 
+
+-------------------- checking number of files --------------------
+OK: sub-PC010 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC010 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC010 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC010 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC010 
+
+-------------------- checking number of files --------------------
+OK: sub-PC010 has correct number of T1w json files in ses-wave1.
+OK: sub-PC010 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC010 
+
+-------------------- checking number of files --------------------
+OK: sub-PC010 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC010 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC010 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC010 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC010 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC010 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC010 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC010 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC010 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC010 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC010 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC010 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC011
+--------------------
+
+ EXISTS: sub-PC011 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC011 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC011 
+
+-------------------- checking number of files --------------------
+OK: sub-PC011 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC011 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC011 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC011 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC011 
+
+-------------------- checking number of files --------------------
+OK: sub-PC011 has correct number of T1w json files in ses-wave1.
+OK: sub-PC011 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC011 
+
+-------------------- checking number of files --------------------
+OK: sub-PC011 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC011 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC011 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC011 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC011 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC011 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC011 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC011 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC011 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC011 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC011 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC011 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC012
+--------------------
+
+ EXISTS: sub-PC012 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC012 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC012 
+
+-------------------- checking number of files --------------------
+OK: sub-PC012 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC012 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC012 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC012 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC012 
+
+-------------------- checking number of files --------------------
+OK: sub-PC012 has correct number of T1w json files in ses-wave1.
+OK: sub-PC012 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC012 
+
+-------------------- checking number of files --------------------
+OK: sub-PC012 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC012 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC012 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC012 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC012 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC012 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC012 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC012 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC012 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC012 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC012 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC012 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC013
+--------------------
+
+ EXISTS: sub-PC013 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC013 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC013 
+
+-------------------- checking number of files --------------------
+OK: sub-PC013 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC013 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC013 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC013 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC013 
+
+-------------------- checking number of files --------------------
+OK: sub-PC013 has correct number of T1w json files in ses-wave1.
+OK: sub-PC013 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC013 
+
+-------------------- checking number of files --------------------
+OK: sub-PC013 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC013 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC013 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC013 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC013 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC013 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC013 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC013 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC014
+--------------------
+
+ EXISTS: sub-PC014 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC014 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC014 
+
+-------------------- checking number of files --------------------
+OK: sub-PC014 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC014 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC014 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC014 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC014 
+
+-------------------- checking number of files --------------------
+OK: sub-PC014 has correct number of T1w json files in ses-wave1.
+OK: sub-PC014 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC014 
+
+-------------------- checking number of files --------------------
+OK: sub-PC014 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC014 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC014 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC014 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC014 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC014 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC014 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC014 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC014 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC014 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC014 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC014 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC015
+--------------------
+
+ EXISTS: sub-PC015 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC015 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC015 
+
+-------------------- checking number of files --------------------
+OK: sub-PC015 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC015 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC015 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC015 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC015 
+
+-------------------- checking number of files --------------------
+OK: sub-PC015 has correct number of T1w json files in ses-wave1.
+OK: sub-PC015 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC015 
+
+-------------------- checking number of files --------------------
+OK: sub-PC015 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC015 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC015 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC015 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC015 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC015 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC015 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC015 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC015 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC015 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC015 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC015 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC017
+--------------------
+
+ EXISTS: sub-PC017 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC017 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC017 
+
+-------------------- checking number of files --------------------
+OK: sub-PC017 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC017 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC017 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC017 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC017 
+
+-------------------- checking number of files --------------------
+OK: sub-PC017 has correct number of T1w json files in ses-wave1.
+OK: sub-PC017 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC017 
+
+-------------------- checking number of files --------------------
+OK: sub-PC017 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC017 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC017 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC017 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC017 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC017 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC017 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC017 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC017 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC017 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC017 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC017 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC018
+--------------------
+
+ EXISTS: sub-PC018 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC018 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC018 
+
+-------------------- checking number of files --------------------
+OK: sub-PC018 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC018 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC018 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC018 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC018 
+
+-------------------- checking number of files --------------------
+OK: sub-PC018 has correct number of T1w json files in ses-wave1.
+OK: sub-PC018 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC018 
+
+-------------------- checking number of files --------------------
+OK: sub-PC018 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC018 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC018 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC018 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC018 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC018 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC018 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC018 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC018 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC018 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC021
+--------------------
+
+ EXISTS: sub-PC021 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC021 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC021 
+
+-------------------- checking number of files --------------------
+OK: sub-PC021 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC021 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC021 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC021 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC021 
+
+-------------------- checking number of files --------------------
+OK: sub-PC021 has correct number of T1w json files in ses-wave1.
+OK: sub-PC021 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC021 
+
+-------------------- checking number of files --------------------
+OK: sub-PC021 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC021 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC021 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC021 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC021 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC021 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC021 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC021 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC021 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC021 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC021 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC021 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC022
+--------------------
+
+ EXISTS: sub-PC022 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC022 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC022 
+
+-------------------- checking number of files --------------------
+OK: sub-PC022 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC022 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC022 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC022 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC022 
+
+-------------------- checking number of files --------------------
+OK: sub-PC022 has correct number of T1w json files in ses-wave1.
+OK: sub-PC022 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC022 
+
+-------------------- checking number of files --------------------
+OK: sub-PC022 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC022 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC022 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC022 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC022 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC022 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC022 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC022 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC022 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC022 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC022 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC022 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC023
+--------------------
+
+ EXISTS: sub-PC023 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC023 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC023 
+
+-------------------- checking number of files --------------------
+OK: sub-PC023 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC023 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC023 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC023 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC023 
+
+-------------------- checking number of files --------------------
+OK: sub-PC023 has correct number of T1w json files in ses-wave1.
+OK: sub-PC023 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC023 
+
+-------------------- checking number of files --------------------
+OK: sub-PC023 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC023 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC023 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC023 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC023 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC023 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC023 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC023 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC023 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC023 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC023 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC023 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC024
+--------------------
+
+ EXISTS: sub-PC024 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC024 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC024 
+
+-------------------- checking number of files --------------------
+OK: sub-PC024 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC024 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC024 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC024 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC024 
+
+-------------------- checking number of files --------------------
+OK: sub-PC024 has correct number of T1w json files in ses-wave1.
+OK: sub-PC024 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC024 
+
+-------------------- checking number of files --------------------
+OK: sub-PC024 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC024 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC024 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC024 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC024 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC024 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC024 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC024 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC024 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC024 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC024 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC024 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC025
+--------------------
+
+ EXISTS: sub-PC025 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC025 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC025 
+
+-------------------- checking number of files --------------------
+OK: sub-PC025 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC025 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC025 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC025 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC025 
+
+-------------------- checking number of files --------------------
+OK: sub-PC025 has correct number of T1w json files in ses-wave1.
+OK: sub-PC025 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC025 
+
+-------------------- checking number of files --------------------
+OK: sub-PC025 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC025 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC025 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC025 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC025 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC025 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC025 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC025 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC025 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC025 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC025 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC025 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC026
+--------------------
+
+ EXISTS: sub-PC026 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC026 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC026 
+
+-------------------- checking number of files --------------------
+OK: sub-PC026 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC026 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC026 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC026 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC026 
+
+-------------------- checking number of files --------------------
+OK: sub-PC026 has correct number of T1w json files in ses-wave1.
+OK: sub-PC026 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC026 
+
+-------------------- checking number of files --------------------
+OK: sub-PC026 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC026 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC026 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC026 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC026 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC026 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC026 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC026 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC026 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC026 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC026 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC026 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC027
+--------------------
+
+ EXISTS: sub-PC027 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC027 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC027 
+
+-------------------- checking number of files --------------------
+OK: sub-PC027 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC027 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC027 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC027 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC027 
+
+-------------------- checking number of files --------------------
+OK: sub-PC027 has correct number of T1w json files in ses-wave1.
+OK: sub-PC027 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC027 
+
+-------------------- checking number of files --------------------
+OK: sub-PC027 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC027 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC027 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC027 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC027 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC027 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC027 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC027 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC027 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC027 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC027 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC027 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC029
+--------------------
+
+ EXISTS: sub-PC029 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC029 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC029 
+
+-------------------- checking number of files --------------------
+OK: sub-PC029 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC029 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC029 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC029 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC029 
+
+-------------------- checking number of files --------------------
+OK: sub-PC029 has correct number of T1w json files in ses-wave1.
+OK: sub-PC029 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC029 
+
+-------------------- checking number of files --------------------
+OK: sub-PC029 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC029 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC029 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC029 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC029 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC029 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC029 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC029 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC029 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC029 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC029 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC029 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC030
+--------------------
+
+ EXISTS: sub-PC030 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC030 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC030 
+
+-------------------- checking number of files --------------------
+OK: sub-PC030 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC030 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC030 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC030 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC030 
+
+-------------------- checking number of files --------------------
+OK: sub-PC030 has correct number of T1w json files in ses-wave1.
+OK: sub-PC030 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC030 
+
+-------------------- checking number of files --------------------
+OK: sub-PC030 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC030 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC030 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC030 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC030 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC030 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC030 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC030 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC030 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC030 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC030 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC030 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC031
+--------------------
+
+ EXISTS: sub-PC031 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC031 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC031 
+
+-------------------- checking number of files --------------------
+OK: sub-PC031 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC031 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC031 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC031 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC031 
+
+-------------------- checking number of files --------------------
+OK: sub-PC031 has correct number of T1w json files in ses-wave1.
+OK: sub-PC031 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC031 
+
+-------------------- checking number of files --------------------
+OK: sub-PC031 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC031 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC031 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC031 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC031 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC031 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC031 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC031 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC031 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC031 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC031 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC031 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC032
+--------------------
+
+ EXISTS: sub-PC032 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC032 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC032 
+
+-------------------- checking number of files --------------------
+OK: sub-PC032 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC032 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC032 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC032 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC032 
+
+-------------------- checking number of files --------------------
+OK: sub-PC032 has correct number of T1w json files in ses-wave1.
+OK: sub-PC032 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC032 
+
+-------------------- checking number of files --------------------
+OK: sub-PC032 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC032 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC032 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC032 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC032 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC032 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC032 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC032 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC032 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC032 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC032 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC032 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC033
+--------------------
+
+ EXISTS: sub-PC033 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC033 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC033 
+
+-------------------- checking number of files --------------------
+OK: sub-PC033 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC033 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC033 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC033 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC033 
+
+-------------------- checking number of files --------------------
+OK: sub-PC033 has correct number of T1w json files in ses-wave1.
+OK: sub-PC033 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC033 
+
+-------------------- checking number of files --------------------
+OK: sub-PC033 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC033 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC033 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC033 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC033 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC033 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC033 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC033 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC033 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC033 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC033 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC033 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC034
+--------------------
+
+ EXISTS: sub-PC034 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC034 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC034 
+
+-------------------- checking number of files --------------------
+OK: sub-PC034 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC034 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC034 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC034 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC034 
+
+-------------------- checking number of files --------------------
+OK: sub-PC034 has correct number of T1w json files in ses-wave1.
+OK: sub-PC034 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC034 
+
+-------------------- checking number of files --------------------
+OK: sub-PC034 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC034 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC034 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC034 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC034 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC034 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC034 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC034 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC034 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC034 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC034 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC034 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC036
+--------------------
+
+ EXISTS: sub-PC036 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC036 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC036 
+
+-------------------- checking number of files --------------------
+OK: sub-PC036 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC036 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC036 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC036 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC036 
+
+-------------------- checking number of files --------------------
+OK: sub-PC036 has correct number of T1w json files in ses-wave1.
+OK: sub-PC036 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC036 
+
+-------------------- checking number of files --------------------
+OK: sub-PC036 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC036 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC036 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC036 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC036 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC036 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC036 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC036 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC036 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC036 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC036 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC036 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC037
+--------------------
+
+ EXISTS: sub-PC037 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC037 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC037 
+
+-------------------- checking number of files --------------------
+OK: sub-PC037 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC037 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC037 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC037 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC037 
+
+-------------------- checking number of files --------------------
+OK: sub-PC037 has correct number of T1w json files in ses-wave1.
+OK: sub-PC037 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC037 
+
+-------------------- checking number of files --------------------
+OK: sub-PC037 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC037 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC037 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC037 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC037 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC037 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC037 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC037 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC037 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC037 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC037 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC037 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC038
+--------------------
+
+ EXISTS: sub-PC038 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC038 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC038 
+
+-------------------- checking number of files --------------------
+OK: sub-PC038 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC038 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC038 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC038 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC038 
+
+-------------------- checking number of files --------------------
+OK: sub-PC038 has correct number of T1w json files in ses-wave1.
+OK: sub-PC038 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC038 
+
+-------------------- checking number of files --------------------
+OK: sub-PC038 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC038 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC038 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC038 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC038 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC038 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC038 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC038 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC038 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC038 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC038 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC038 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC039
+--------------------
+
+ EXISTS: sub-PC039 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC039 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC039 
+
+-------------------- checking number of files --------------------
+OK: sub-PC039 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC039 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC039 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC039 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC039 
+
+-------------------- checking number of files --------------------
+OK: sub-PC039 has correct number of T1w json files in ses-wave1.
+OK: sub-PC039 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC039 
+
+-------------------- checking number of files --------------------
+OK: sub-PC039 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC039 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC039 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC039 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC039 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC039 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC039 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC039 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC039 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC039 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC039 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC039 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC041
+--------------------
+
+ EXISTS: sub-PC041 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC041 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC041 
+
+-------------------- checking number of files --------------------
+OK: sub-PC041 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC041 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC041 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC041 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC041 
+
+-------------------- checking number of files --------------------
+OK: sub-PC041 has correct number of T1w json files in ses-wave1.
+OK: sub-PC041 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC041 
+
+-------------------- checking number of files --------------------
+OK: sub-PC041 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC041 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC041 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC041 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC041 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC041 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC041 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC041 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC041 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC041 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC041 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC041 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC042
+--------------------
+
+ EXISTS: sub-PC042 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC042 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC042 
+
+-------------------- checking number of files --------------------
+OK: sub-PC042 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC042 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC042 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC042 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC042 
+
+-------------------- checking number of files --------------------
+OK: sub-PC042 has correct number of T1w json files in ses-wave1.
+OK: sub-PC042 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC042 
+
+-------------------- checking number of files --------------------
+OK: sub-PC042 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC042 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC042 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC042 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC042 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC042 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC042 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC042 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC042 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC042 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC042 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC042 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC043
+--------------------
+
+ EXISTS: sub-PC043 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC043 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC043 
+
+-------------------- checking number of files --------------------
+OK: sub-PC043 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC043 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC043 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC043 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC043 
+
+-------------------- checking number of files --------------------
+OK: sub-PC043 has correct number of T1w json files in ses-wave1.
+OK: sub-PC043 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC043 
+
+-------------------- checking number of files --------------------
+OK: sub-PC043 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC043 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC043 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC043 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC043 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC043 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC043 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC043 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC043 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC043 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC043 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC043 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC044
+--------------------
+
+ EXISTS: sub-PC044 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC044 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC044 
+
+-------------------- checking number of files --------------------
+OK: sub-PC044 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC044 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC044 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC044 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC044 
+
+-------------------- checking number of files --------------------
+OK: sub-PC044 has correct number of T1w json files in ses-wave1.
+OK: sub-PC044 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC044 
+
+-------------------- checking number of files --------------------
+OK: sub-PC044 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC044 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC044 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC044 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC044 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC044 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC044 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC044 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC044 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC044 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC044 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC044 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC045
+--------------------
+
+ EXISTS: sub-PC045 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC045 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC045 
+
+-------------------- checking number of files --------------------
+OK: sub-PC045 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC045 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC045 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC045 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC045 
+
+-------------------- checking number of files --------------------
+OK: sub-PC045 has correct number of T1w json files in ses-wave1.
+OK: sub-PC045 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC045 
+
+-------------------- checking number of files --------------------
+OK: sub-PC045 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC045 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC045 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC045 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC045 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC045 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC045 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC045 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC045 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC045 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC045 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC045 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC046
+--------------------
+
+ EXISTS: sub-PC046 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC046 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC046 
+
+-------------------- checking number of files --------------------
+OK: sub-PC046 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC046 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC046 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC046 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC046 
+
+-------------------- checking number of files --------------------
+OK: sub-PC046 has correct number of T1w json files in ses-wave1.
+OK: sub-PC046 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC046 
+
+-------------------- checking number of files --------------------
+OK: sub-PC046 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC046 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC046 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC046 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC046 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC046 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC046 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC046 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC046 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC046 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC046 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC046 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC047
+--------------------
+
+ EXISTS: sub-PC047 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC047 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC047 
+
+-------------------- checking number of files --------------------
+OK: sub-PC047 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC047 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC047 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC047 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC047 
+
+-------------------- checking number of files --------------------
+OK: sub-PC047 has correct number of T1w json files in ses-wave1.
+OK: sub-PC047 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC047 
+
+-------------------- checking number of files --------------------
+OK: sub-PC047 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC047 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC047 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC047 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC047 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC047 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC047 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC047 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC047 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC047 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC047 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC047 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC048
+--------------------
+
+ EXISTS: sub-PC048 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC048 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC048 
+
+-------------------- checking number of files --------------------
+OK: sub-PC048 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC048 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC048 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC048 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC048 
+
+-------------------- checking number of files --------------------
+OK: sub-PC048 has correct number of T1w json files in ses-wave1.
+OK: sub-PC048 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC048 
+
+-------------------- checking number of files --------------------
+OK: sub-PC048 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC048 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC048 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC048 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC048 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC048 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC048 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC048 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC048 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC048 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC048 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC048 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC049
+--------------------
+
+ EXISTS: sub-PC049 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC049 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC049 
+
+-------------------- checking number of files --------------------
+OK: sub-PC049 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC049 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC049 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC049 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC049 
+
+-------------------- checking number of files --------------------
+OK: sub-PC049 has correct number of T1w json files in ses-wave1.
+OK: sub-PC049 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC049 
+
+-------------------- checking number of files --------------------
+OK: sub-PC049 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC049 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC049 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC049 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC049 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC049 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC049 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC049 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC049 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC049 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC049 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC049 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC050
+--------------------
+
+ EXISTS: sub-PC050 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC050 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC050 
+
+-------------------- checking number of files --------------------
+OK: sub-PC050 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC050 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC050 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC050 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC050 
+
+-------------------- checking number of files --------------------
+OK: sub-PC050 has correct number of T1w json files in ses-wave1.
+OK: sub-PC050 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC050 
+
+-------------------- checking number of files --------------------
+OK: sub-PC050 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC050 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC050 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC050 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC050 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC050 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC050 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC050 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC050 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC050 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC050 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC050 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC051
+--------------------
+
+ EXISTS: sub-PC051 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC051 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC051 
+
+-------------------- checking number of files --------------------
+OK: sub-PC051 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC051 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC051 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC051 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC051 
+
+-------------------- checking number of files --------------------
+OK: sub-PC051 has correct number of T1w json files in ses-wave1.
+OK: sub-PC051 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC051 
+
+-------------------- checking number of files --------------------
+OK: sub-PC051 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC051 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC051 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC051 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC051 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC051 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC051 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC051 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC051 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC051 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC051 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC051 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC052
+--------------------
+
+ EXISTS: sub-PC052 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC052 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC052 
+
+-------------------- checking number of files --------------------
+OK: sub-PC052 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC052 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC052 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC052 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC052 
+
+-------------------- checking number of files --------------------
+OK: sub-PC052 has correct number of T1w json files in ses-wave1.
+OK: sub-PC052 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC052 
+
+-------------------- checking number of files --------------------
+OK: sub-PC052 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC052 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC052 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC052 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC052 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC052 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC052 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC052 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC052 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC052 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC052 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC052 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC053
+--------------------
+
+ EXISTS: sub-PC053 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC053 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC053 
+
+-------------------- checking number of files --------------------
+OK: sub-PC053 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC053 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC053 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC053 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC053 
+
+-------------------- checking number of files --------------------
+OK: sub-PC053 has correct number of T1w json files in ses-wave1.
+OK: sub-PC053 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC053 
+
+-------------------- checking number of files --------------------
+OK: sub-PC053 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC053 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC053 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC053 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC053 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC053 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC053 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC053 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC053 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC053 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC053 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC053 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC054
+--------------------
+
+ EXISTS: sub-PC054 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC054 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC054 
+
+-------------------- checking number of files --------------------
+OK: sub-PC054 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC054 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC054 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC054 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC054 
+
+-------------------- checking number of files --------------------
+OK: sub-PC054 has correct number of T1w json files in ses-wave1.
+OK: sub-PC054 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC054 
+
+-------------------- checking number of files --------------------
+OK: sub-PC054 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC054 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC054 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC054 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC054 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC054 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC054 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC054 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC054 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC054 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC054 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC054 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC055
+--------------------
+
+ EXISTS: sub-PC055 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC055 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC055 
+
+-------------------- checking number of files --------------------
+OK: sub-PC055 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC055 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC055 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC055 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC055 
+
+-------------------- checking number of files --------------------
+OK: sub-PC055 has correct number of T1w json files in ses-wave1.
+OK: sub-PC055 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC055 
+
+-------------------- checking number of files --------------------
+OK: sub-PC055 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC055 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC055 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC055 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC055 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC055 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC055 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC055 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC055 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC055 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC055 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC055 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC056
+--------------------
+
+ EXISTS: sub-PC056 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC056 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC056 
+
+-------------------- checking number of files --------------------
+OK: sub-PC056 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC056 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC056 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC056 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC056 
+
+-------------------- checking number of files --------------------
+OK: sub-PC056 has correct number of T1w json files in ses-wave1.
+OK: sub-PC056 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC056 
+
+-------------------- checking number of files --------------------
+OK: sub-PC056 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC056 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC056 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC056 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC056 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC056 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC056 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC056 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC056 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC056 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC056 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC056 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC057
+--------------------
+
+ EXISTS: sub-PC057 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC057 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC057 
+
+-------------------- checking number of files --------------------
+OK: sub-PC057 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC057 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC057 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC057 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC057 
+
+-------------------- checking number of files --------------------
+OK: sub-PC057 has correct number of T1w json files in ses-wave1.
+OK: sub-PC057 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC057 
+
+-------------------- checking number of files --------------------
+OK: sub-PC057 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC057 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC057 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC057 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC057 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC057 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC057 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC057 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC057 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC057 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC057 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC057 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC058
+--------------------
+
+ EXISTS: sub-PC058 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC058 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC058 
+
+-------------------- checking number of files --------------------
+OK: sub-PC058 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC058 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC058 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC058 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC058 
+
+-------------------- checking number of files --------------------
+OK: sub-PC058 has correct number of T1w json files in ses-wave1.
+OK: sub-PC058 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC058 
+
+-------------------- checking number of files --------------------
+OK: sub-PC058 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC058 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC058 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC058 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC058 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC058 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC058 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC058 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC058 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC058 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC058 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC058 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC059
+--------------------
+
+ EXISTS: sub-PC059 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC059 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC059 
+
+-------------------- checking number of files --------------------
+OK: sub-PC059 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC059 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC059 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC059 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC059 
+
+-------------------- checking number of files --------------------
+OK: sub-PC059 has correct number of T1w json files in ses-wave1.
+OK: sub-PC059 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC059 
+
+-------------------- checking number of files --------------------
+OK: sub-PC059 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC059 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC059 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC059 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC059 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC059 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC059 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC059 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC059 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC059 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC059 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC059 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC060
+--------------------
+
+ EXISTS: sub-PC060 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC060 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC060 
+
+-------------------- checking number of files --------------------
+OK: sub-PC060 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC060 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC060 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC060 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC060 
+
+-------------------- checking number of files --------------------
+OK: sub-PC060 has correct number of T1w json files in ses-wave1.
+OK: sub-PC060 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC060 
+
+-------------------- checking number of files --------------------
+OK: sub-PC060 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC060 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC060 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC060 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC060 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC060 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC060 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC060 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC060 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC060 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC060 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC060 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC061
+--------------------
+
+ EXISTS: sub-PC061 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC061 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC061 
+
+-------------------- checking number of files --------------------
+OK: sub-PC061 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC061 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC061 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC061 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC061 
+
+-------------------- checking number of files --------------------
+OK: sub-PC061 has correct number of T1w json files in ses-wave1.
+OK: sub-PC061 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC061 
+
+-------------------- checking number of files --------------------
+OK: sub-PC061 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC061 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC061 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC061 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC061 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC061 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC061 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC061 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC061 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC061 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC061 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC061 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC062
+--------------------
+
+ EXISTS: sub-PC062 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC062 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC062 
+
+-------------------- checking number of files --------------------
+OK: sub-PC062 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC062 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC062 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC062 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC062 
+
+-------------------- checking number of files --------------------
+OK: sub-PC062 has correct number of T1w json files in ses-wave1.
+OK: sub-PC062 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC062 
+
+-------------------- checking number of files --------------------
+OK: sub-PC062 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC062 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC062 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC062 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC062 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC062 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC062 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC062 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC062 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC062 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC062 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC062 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC063
+--------------------
+
+ EXISTS: sub-PC063 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC063 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC063 
+
+-------------------- checking number of files --------------------
+OK: sub-PC063 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC063 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC063 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC063 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC063 
+
+-------------------- checking number of files --------------------
+OK: sub-PC063 has correct number of T1w json files in ses-wave1.
+OK: sub-PC063 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC063 
+
+-------------------- checking number of files --------------------
+OK: sub-PC063 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC063 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC063 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC063 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC063 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC063 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC063 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC063 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC063 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC063 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC063 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC063 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC064
+--------------------
+
+ EXISTS: sub-PC064 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC064 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC064 
+
+-------------------- checking number of files --------------------
+OK: sub-PC064 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC064 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC064 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC064 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC064 
+
+-------------------- checking number of files --------------------
+OK: sub-PC064 has correct number of T1w json files in ses-wave1.
+OK: sub-PC064 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC064 
+
+-------------------- checking number of files --------------------
+OK: sub-PC064 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC064 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC064 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC064 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC064 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC064 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC064 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC064 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC064 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC064 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC064 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC064 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC066
+--------------------
+
+ EXISTS: sub-PC066 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC066 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC066 
+
+-------------------- checking number of files --------------------
+OK: sub-PC066 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC066 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC066 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC066 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC066 
+
+-------------------- checking number of files --------------------
+OK: sub-PC066 has correct number of T1w json files in ses-wave1.
+OK: sub-PC066 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC066 
+
+-------------------- checking number of files --------------------
+OK: sub-PC066 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC066 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC066 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC066 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC066 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC066 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC066 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC066 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC066 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC066 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC066 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC066 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC067
+--------------------
+
+ EXISTS: sub-PC067 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC067 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC067 
+
+-------------------- checking number of files --------------------
+OK: sub-PC067 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC067 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC067 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC067 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC067 
+
+-------------------- checking number of files --------------------
+OK: sub-PC067 has correct number of T1w json files in ses-wave1.
+OK: sub-PC067 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC067 
+
+-------------------- checking number of files --------------------
+OK: sub-PC067 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC067 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC067 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC067 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC067 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC067 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC067 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC067 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC067 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC067 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC067 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC067 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC068
+--------------------
+
+ EXISTS: sub-PC068 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC068 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC068 
+
+-------------------- checking number of files --------------------
+OK: sub-PC068 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC068 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC068 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC068 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC068 
+
+-------------------- checking number of files --------------------
+OK: sub-PC068 has correct number of T1w json files in ses-wave1.
+OK: sub-PC068 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC068 
+
+-------------------- checking number of files --------------------
+OK: sub-PC068 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC068 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC068 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC068 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC068 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC068 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC068 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC068 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC068 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC068 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC068 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC068 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC069
+--------------------
+
+ EXISTS: sub-PC069 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC069 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC069 
+
+-------------------- checking number of files --------------------
+OK: sub-PC069 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC069 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC069 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC069 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC069 
+
+-------------------- checking number of files --------------------
+OK: sub-PC069 has correct number of T1w json files in ses-wave1.
+OK: sub-PC069 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC069 
+
+-------------------- checking number of files --------------------
+OK: sub-PC069 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC069 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC069 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC069 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC069 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC069 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC069 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC069 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC069 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC069 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC069 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC069 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC070
+--------------------
+
+ EXISTS: sub-PC070 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC070 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC070 
+
+-------------------- checking number of files --------------------
+OK: sub-PC070 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC070 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC070 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC070 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC070 
+
+-------------------- checking number of files --------------------
+OK: sub-PC070 has correct number of T1w json files in ses-wave1.
+OK: sub-PC070 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC070 
+
+-------------------- checking number of files --------------------
+OK: sub-PC070 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC070 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC070 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC070 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC070 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC070 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC070 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC070 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC070 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC070 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC070 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC070 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC071
+--------------------
+
+ EXISTS: sub-PC071 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC071 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC071 
+
+-------------------- checking number of files --------------------
+OK: sub-PC071 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC071 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC071 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC071 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC071 
+
+-------------------- checking number of files --------------------
+OK: sub-PC071 has correct number of T1w json files in ses-wave1.
+OK: sub-PC071 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC071 
+
+-------------------- checking number of files --------------------
+OK: sub-PC071 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC071 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC071 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC071 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC071 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC071 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC071 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC071 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC071 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC071 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC071 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC071 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC072
+--------------------
+
+ EXISTS: sub-PC072 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC072 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC072 
+
+-------------------- checking number of files --------------------
+OK: sub-PC072 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC072 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC072 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC072 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC072 
+
+-------------------- checking number of files --------------------
+OK: sub-PC072 has correct number of T1w json files in ses-wave1.
+OK: sub-PC072 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC072 
+
+-------------------- checking number of files --------------------
+OK: sub-PC072 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC072 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC072 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC072 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC072 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC072 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC072 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC072 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC072 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC072 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC072 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC072 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC073
+--------------------
+
+ EXISTS: sub-PC073 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC073 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC073 
+
+-------------------- checking number of files --------------------
+OK: sub-PC073 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC073 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC073 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC073 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC073 
+
+-------------------- checking number of files --------------------
+OK: sub-PC073 has correct number of T1w json files in ses-wave1.
+OK: sub-PC073 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC073 
+
+-------------------- checking number of files --------------------
+OK: sub-PC073 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC073 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC073 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC073 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC073 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC073 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC073 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC073 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC073 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC073 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC073 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC073 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC074
+--------------------
+
+ EXISTS: sub-PC074 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC074 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC074 
+
+-------------------- checking number of files --------------------
+OK: sub-PC074 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC074 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC074 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC074 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC074 
+
+-------------------- checking number of files --------------------
+OK: sub-PC074 has correct number of T1w json files in ses-wave1.
+OK: sub-PC074 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC074 
+
+-------------------- checking number of files --------------------
+OK: sub-PC074 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC074 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC074 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC074 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC074 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC074 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC074 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC074 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC074 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC074 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC074 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC074 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC075
+--------------------
+
+ EXISTS: sub-PC075 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC075 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC075 
+
+-------------------- checking number of files --------------------
+OK: sub-PC075 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC075 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC075 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC075 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC075 
+
+-------------------- checking number of files --------------------
+OK: sub-PC075 has correct number of T1w json files in ses-wave1.
+OK: sub-PC075 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC075 
+
+-------------------- checking number of files --------------------
+OK: sub-PC075 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC075 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC075 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC075 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC075 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC075 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC075 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC075 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC075 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC075 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC075 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC075 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC076
+--------------------
+
+ EXISTS: sub-PC076 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC076 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC076 
+
+-------------------- checking number of files --------------------
+OK: sub-PC076 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC076 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC076 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC076 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC076 
+
+-------------------- checking number of files --------------------
+OK: sub-PC076 has correct number of T1w json files in ses-wave1.
+OK: sub-PC076 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC076 
+
+-------------------- checking number of files --------------------
+
+ FIXING FILES: json 
+
+MOVED: sub-PC076_ses-wave1_task-gng_acq-1_run-01_bold.json to /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC076_ses-wave1
+RENAMED: /projects/giuliani_lab/shared/PCSR/bids_data/sub-PC076/ses-wave1/func/sub-PC076_ses-wave1_task-gng_acq-1_run-02_bold.json, dropped run from filename
+
+ FIXING FILES: nii.gz 
+
+MOVED: sub-PC076_ses-wave1_task-gng_acq-1_run-01_bold.nii.gz to /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC076_ses-wave1
+RENAMED: /projects/giuliani_lab/shared/PCSR/bids_data/sub-PC076/ses-wave1/func/sub-PC076_ses-wave1_task-gng_acq-1_run-02_bold.nii.gz, dropped run from filename
+OK: sub-PC076 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC076 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC076 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC076 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC076 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC076 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC076 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC076 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC076 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC076 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC078
+--------------------
+
+ EXISTS: sub-PC078 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC078 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC078 
+
+-------------------- checking number of files --------------------
+OK: sub-PC078 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC078 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC078 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC078 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC078 
+
+-------------------- checking number of files --------------------
+OK: sub-PC078 has correct number of T1w json files in ses-wave1.
+OK: sub-PC078 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC078 
+
+-------------------- checking number of files --------------------
+OK: sub-PC078 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC078 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC078 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC078 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC078 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC078 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC078 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC078 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC078 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC078 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC078 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC078 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC080
+--------------------
+
+ EXISTS: sub-PC080 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC080 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC080 
+
+-------------------- checking number of files --------------------
+OK: sub-PC080 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC080 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC080 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC080 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC080 
+
+-------------------- checking number of files --------------------
+OK: sub-PC080 has correct number of T1w json files in ses-wave1.
+OK: sub-PC080 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC080 
+
+-------------------- checking number of files --------------------
+OK: sub-PC080 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC080 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC080 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC080 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC080 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC080 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC080 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC080 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC080 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC080 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC080 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC080 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC081
+--------------------
+
+ EXISTS: sub-PC081 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC081 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC081 
+
+-------------------- checking number of files --------------------
+OK: sub-PC081 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC081 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC081 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC081 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC081 
+
+-------------------- checking number of files --------------------
+OK: sub-PC081 has correct number of T1w json files in ses-wave1.
+OK: sub-PC081 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC081 
+
+-------------------- checking number of files --------------------
+OK: sub-PC081 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC081 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC081 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC081 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC081 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC081 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC081 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC081 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC081 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC081 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC081 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC081 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC082
+--------------------
+
+ EXISTS: sub-PC082 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC082 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC082 
+
+-------------------- checking number of files --------------------
+OK: sub-PC082 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC082 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC082 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC082 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC082 
+
+-------------------- checking number of files --------------------
+OK: sub-PC082 has correct number of T1w json files in ses-wave1.
+OK: sub-PC082 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC082 
+
+-------------------- checking number of files --------------------
+OK: sub-PC082 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC082 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC082 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC082 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC082 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC082 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC082 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC082 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC082 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC082 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC082 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC082 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC083
+--------------------
+
+ EXISTS: sub-PC083 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC083 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC083 
+
+-------------------- checking number of files --------------------
+OK: sub-PC083 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC083 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC083 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC083 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC083 
+
+-------------------- checking number of files --------------------
+OK: sub-PC083 has correct number of T1w json files in ses-wave1.
+OK: sub-PC083 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC083 
+
+-------------------- checking number of files --------------------
+OK: sub-PC083 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC083 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC083 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC083 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC083 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC083 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC083 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC083 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC083 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC083 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC083 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC083 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC084
+--------------------
+
+ EXISTS: sub-PC084 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC084 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC084 
+
+-------------------- checking number of files --------------------
+OK: sub-PC084 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC084 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC084 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC084 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC084 
+
+-------------------- checking number of files --------------------
+OK: sub-PC084 has correct number of T1w json files in ses-wave1.
+OK: sub-PC084 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC084 
+
+-------------------- checking number of files --------------------
+OK: sub-PC084 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC084 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC084 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC084 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC084 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC084 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC084 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC084 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC084 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC084 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC084 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC084 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC085
+--------------------
+
+ EXISTS: sub-PC085 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC085 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC085 
+
+-------------------- checking number of files --------------------
+OK: sub-PC085 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC085 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC085 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC085 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC085 
+
+-------------------- checking number of files --------------------
+OK: sub-PC085 has correct number of T1w json files in ses-wave1.
+OK: sub-PC085 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC085 
+
+-------------------- checking number of files --------------------
+OK: sub-PC085 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC085 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC085 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC085 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC085 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC085 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC085 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC085 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC085 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC085 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC085 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC085 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC086
+--------------------
+
+ EXISTS: sub-PC086 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC086 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC086 
+
+-------------------- checking number of files --------------------
+OK: sub-PC086 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC086 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC086 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC086 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC086 
+
+-------------------- checking number of files --------------------
+OK: sub-PC086 has correct number of T1w json files in ses-wave1.
+OK: sub-PC086 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC086 
+
+-------------------- checking number of files --------------------
+OK: sub-PC086 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC086 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC086 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC086 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC086 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC086 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC086 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC086 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC086 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC086 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC086 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC086 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC087
+--------------------
+
+ EXISTS: sub-PC087 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC087 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC087 
+
+-------------------- checking number of files --------------------
+OK: sub-PC087 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC087 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC087 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC087 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC087 
+
+-------------------- checking number of files --------------------
+OK: sub-PC087 has correct number of T1w json files in ses-wave1.
+OK: sub-PC087 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC087 
+
+-------------------- checking number of files --------------------
+OK: sub-PC087 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC087 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+
+ FIXING FILES: json 
+
+MOVED: sub-PC087_ses-wave1_task-gng_acq-2_run-01_bold.json to /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC087_ses-wave1
+RENAMED: /projects/giuliani_lab/shared/PCSR/bids_data/sub-PC087/ses-wave1/func/sub-PC087_ses-wave1_task-gng_acq-2_run-02_bold.json, dropped run from filename
+
+ FIXING FILES: nii.gz 
+
+MOVED: sub-PC087_ses-wave1_task-gng_acq-2_run-01_bold.nii.gz to /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC087_ses-wave1
+RENAMED: /projects/giuliani_lab/shared/PCSR/bids_data/sub-PC087/ses-wave1/func/sub-PC087_ses-wave1_task-gng_acq-2_run-02_bold.nii.gz, dropped run from filename
+OK: sub-PC087 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC087 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC087 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC087 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC087 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC087 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC087 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC087 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC088
+--------------------
+
+ EXISTS: sub-PC088 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC088 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC088 
+
+-------------------- checking number of files --------------------
+OK: sub-PC088 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC088 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC088 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC088 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC088 
+
+-------------------- checking number of files --------------------
+OK: sub-PC088 has correct number of T1w json files in ses-wave1.
+OK: sub-PC088 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC088 
+
+-------------------- checking number of files --------------------
+OK: sub-PC088 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC088 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC088 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC088 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC088 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC088 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC088 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC088 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC088 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC088 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC088 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC088 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC089
+--------------------
+
+ EXISTS: sub-PC089 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC089 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC089 
+
+-------------------- checking number of files --------------------
+OK: sub-PC089 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC089 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC089 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC089 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC089 
+
+-------------------- checking number of files --------------------
+OK: sub-PC089 has correct number of T1w json files in ses-wave1.
+OK: sub-PC089 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC089 
+
+-------------------- checking number of files --------------------
+OK: sub-PC089 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC089 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC089 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC089 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC089 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC089 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC089 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC089 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC089 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC089 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC089 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC089 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC090
+--------------------
+
+ EXISTS: sub-PC090 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC090 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC090 
+
+-------------------- checking number of files --------------------
+OK: sub-PC090 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC090 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC090 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC090 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC090 
+
+-------------------- checking number of files --------------------
+OK: sub-PC090 has correct number of T1w json files in ses-wave1.
+OK: sub-PC090 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC090 
+
+-------------------- checking number of files --------------------
+OK: sub-PC090 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC090 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC090 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC090 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC090 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC090 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC090 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC090 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC090 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC090 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC090 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC090 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
+
+--------------------
+sub-PC092
+--------------------
+
+ EXISTS: sub-PC092 has 1 ses-wave directories. 
+
+
+ EXISTS: sub-PC092 ses-wave1 has 3 total sequence directories. 
+
+
+ EXISTS: fmap folder for subject sub-PC092 
+
+-------------------- checking number of files --------------------
+OK: sub-PC092 has correct number of dir-ap json files in ses-wave1.
+OK: sub-PC092 has correct number of dir-ap nii.gz files in ses-wave1.
+OK: sub-PC092 has correct number of dir-pa json files in ses-wave1.
+OK: sub-PC092 has correct number of dir-pa nii.gz files in ses-wave1.
+
+ EXISTS: anat folder for subject sub-PC092 
+
+-------------------- checking number of files --------------------
+OK: sub-PC092 has correct number of T1w json files in ses-wave1.
+OK: sub-PC092 has correct number of T1w nii.gz files in ses-wave1.
+
+ EXISTS: func folder for subject sub-PC092 
+
+-------------------- checking number of files --------------------
+OK: sub-PC092 has correct number of task-gng_acq-1 json files in ses-wave1.
+OK: sub-PC092 has correct number of task-gng_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC092 has correct number of task-gng_acq-2 json files in ses-wave1.
+OK: sub-PC092 has correct number of task-gng_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC092 has correct number of task-food_acq-1 json files in ses-wave1.
+OK: sub-PC092 has correct number of task-food_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC092 has correct number of task-food_acq-2 json files in ses-wave1.
+OK: sub-PC092 has correct number of task-food_acq-2 nii.gz files in ses-wave1.
+OK: sub-PC092 has correct number of task-fla_acq-1 json files in ses-wave1.
+OK: sub-PC092 has correct number of task-fla_acq-1 nii.gz files in ses-wave1.
+OK: sub-PC092 has correct number of task-fla_acq-2 json files in ses-wave1.
+OK: sub-PC092 has correct number of task-fla_acq-2 nii.gz files in ses-wave1.
+
+-------------------- assign ordered run numbers --------------------
+Appending sequence numbers
+Appending run number based on sequence acquisition order.
+    Task: task1
+    Task: task2
