@@ -1,0 +1,138 @@
+INFO:dcm2bids:--- dcm2bids start ---
+INFO:dcm2bids:subprocess: dcm2niix
+INFO:dcm2bids:
+Chris Rorden's dcm2niiX version v1.0.20171215 GCC5.3.1 (64-bit Linux)
+usage: dcm2niix [options] <in_folder>
+ Options :
+  -1..-9 : gz compression level (1=fastest..9=smallest, default 6)
+  -b : BIDS sidecar (y/n/o(o=only: no NIfTI), default y)
+   -ba : anonymize BIDS (y/n, default y)
+  -c : comment stored as NIfTI aux_file (up to 24 characters)
+  -d : diffusion volumes sorted by b-value (y/n, default n)
+  -f : filename (%a=antenna  (coil) number, %c=comments, %d=description, %e echo number, %f=folder name, %i ID of patient, %j seriesInstanceUID, %k studyInstanceUID, %m=manufacturer, %n=name of patient, %p=protocol, %s=series number, %t=time, %u=acquisition number, %v=vendor, %x=study ID; %z sequence name; default '%3s_%f_%p_%t')
+  -h : show help
+  -i : ignore derived, localizer and 2D images (y/n, default n)
+  -m : merge 2D slices from same series regardless of study time, echo, coil, orientation, etc. (y/n, default n)
+  -n : only convert this series number - can be used up to 16 times (default convert all)
+  -o : output directory (omit to save to input folder)
+  -p : Philips precise float (not display) scaling (y/n, default y)
+  -s : single file mode, do not convert other images in folder (y/n, default n)
+  -t : text notes includes private patient details (y/n, default n)
+  -u : up-to-date check
+  -v : verbose (n/y or 0/1/2 [no, yes, logorrheic], default 0)
+  -x : crop (y/n, default n)
+  -z : gz compress images (y/i/n/3, default y) [y=pigz, i=internal, n=no, 3=no,3D]
+ Defaults file : /home/giuliani/.dcm2nii.ini
+ Examples :
+  dcm2niix /Users/chris/dir
+  dcm2niix -c "my comment" /Users/chris/dir
+  dcm2niix -o /users/cr/outdir/ -z y ~/dicomdir
+  dcm2niix -f %p_%s -b y -ba n ~/dicomdir
+  dcm2niix -f mystudy%s ~/dicomdir
+  dcm2niix -o "~/dir with spaces/dir" ~/dicomdir
+
+INFO:dcm2bids:dcm2niix:version: v1.0.20171215
+INFO:dcm2bids:participant: PC081
+INFO:dcm2bids:session: wave1
+INFO:dcm2bids:config: /projects/giuliani_lab/shared/PCSR/PCSR_scripts/org/dcm2bids/study_config.json
+INFO:dcm2bids:BIDS directory: /projects/giuliani_lab/shared/PCSR/bids_data
+INFO:dcm2bids:
+INFO:dcm2bids:--- running dcm2niix ---
+INFO:dcm2bids:subprocess: dcm2niix -b y -ba y -z y -f '%3s_%f_%p_%t' -o /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1 /projects/lcni/dcm/giuliani_lab/Giuliani/PCSR/PC081_20180715_083829
+INFO:dcm2bids:
+Chris Rorden's dcm2niiX version v1.0.20171215 GCC5.3.1 (64-bit Linux)
+Found 1691 DICOM image(s)
+Convert 128 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/001_PC081_20180715_083829_AAHScout_20180715083830 (160x160x128x1)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/001_PC081_20180715_083829_AAHScout_20180715083830.nii"
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 165 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/007_PC081_20180715_083829_Flanker_1_20180715083830 (100x100x72x165)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/007_PC081_20180715_083829_Flanker_1_20180715083830.nii"
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 189 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/012_PC081_20180715_083829_GNG_2_20180715083830 (100x100x72x189)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/012_PC081_20180715_083829_GNG_2_20180715083830.nii"
+Note: rare 16-bit UNSIGNED integer image. Older tools may require 32-bit conversion
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/010_PC081_20180715_083829_se_epi_mb3_g2_2mm_pa_20180715083830 (104x104x72x1)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/010_PC081_20180715_083829_se_epi_mb3_g2_2mm_pa_20180715083830.nii"
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 245 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/013_PC081_20180715_083829_Food_1_20180715083830 (104x104x72x245)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/013_PC081_20180715_083829_Food_1_20180715083830.nii"
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 189 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/011_PC081_20180715_083829_GNG_1_20180715083830 (100x100x72x189)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/011_PC081_20180715_083829_GNG_1_20180715083830.nii"
+Convert 176 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/005_PC081_20180715_083829_mprage_p2_20180715083830 (256x256x176x1)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/005_PC081_20180715_083829_mprage_p2_20180715083830.nii"
+slices not stacked: orientation varies (localizer?) [0.537104 0.799394 0.269236 0.0385842 0.295566 -0.954543] != [-0.0322713 0.992789 0.115448 0.0582369 0.117179 -0.991402]
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/002_PC081_20180715_083829_AAHScout_20180715083830 (162x162x1x1)
+Warning: Check that 2D images are not mirrored.
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/002_PC081_20180715_083829_AAHScout_20180715083830.nii"
+slices not stacked: orientation varies (localizer?) [-0.0322713 0.992789 0.115448 0.0582369 0.117179 -0.991402] != [-0.041935 0.957129 0.286612 0.0517148 0.288559 -0.956065]
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/002_PC081_20180715_083829_AAHScout_20180715083830a (162x162x1x1)
+Warning: Check that 2D images are not mirrored.
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/002_PC081_20180715_083829_AAHScout_20180715083830a.nii"
+slices not stacked: orientation varies (localizer?) [-0.041935 0.957129 0.286612 0.0517148 0.288559 -0.956065] != [-0.556206 0.799946 0.225213 0.0385842 0.295566 -0.954543]
+Convert 2 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/002_PC081_20180715_083829_AAHScout_20180715083830b (162x162x2x1)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/002_PC081_20180715_083829_AAHScout_20180715083830b.nii"
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/002_PC081_20180715_083829_AAHScout_20180715083830c (162x162x1x1)
+Warning: Check that 2D images are not mirrored.
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/002_PC081_20180715_083829_AAHScout_20180715083830c.nii"
+slices not stacked: orientation varies (localizer?) [0.999151 0.0215585 0.0350961 0.0323504 0.11666 -0.992645] != [0.997781 0.0252705 0.0615985 0.0582369 0.117179 -0.991402]
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/003_PC081_20180715_083829_AAHScout_20180715083830 (162x162x1x1)
+Warning: Check that 2D images are not mirrored.
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/003_PC081_20180715_083829_AAHScout_20180715083830.nii"
+slices not stacked: orientation varies (localizer?) [0.997781 0.0252705 0.0615985 0.0582369 0.117179 -0.991402] != [0.998303 0.01728 0.0556109 0.0547142 0.0486312 -0.997317]
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/003_PC081_20180715_083829_AAHScout_20180715083830a (162x162x1x1)
+Warning: Check that 2D images are not mirrored.
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/003_PC081_20180715_083829_AAHScout_20180715083830a.nii"
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/003_PC081_20180715_083829_AAHScout_20180715083830b (162x162x1x1)
+Warning: Check that 2D images are not mirrored.
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/003_PC081_20180715_083829_AAHScout_20180715083830b.nii"
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 165 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/008_PC081_20180715_083829_Flanker_2_20180715083830 (100x100x72x165)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/008_PC081_20180715_083829_Flanker_2_20180715083830.nii"
+Convert 176 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/006_PC081_20180715_083829_mprage_p2_20180715083830 (256x256x176x1)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/006_PC081_20180715_083829_mprage_p2_20180715083830.nii"
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/009_PC081_20180715_083829_se_epi_mb3_g2_2mm_ap_20180715083830 (104x104x72x1)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/009_PC081_20180715_083829_se_epi_mb3_g2_2mm_ap_20180715083830.nii"
+slices not stacked: orientation varies (localizer?) [0.999151 0.0215585 0.0350961 -0.0254943 0.992938 0.115863] != [0.998358 0.0290652 0.0493551 -0.0423317 0.95488 0.293959]
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/004_PC081_20180715_083829_AAHScout_20180715083830 (162x162x1x1)
+Warning: Check that 2D images are not mirrored.
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/004_PC081_20180715_083829_AAHScout_20180715083830.nii"
+slices not stacked: orientation varies (localizer?) [0.998358 0.0290652 0.0493551 -0.0423317 0.95488 0.293959] != [0.997781 0.0252705 0.0615985 -0.0246293 0.999635 -0.0111475]
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/004_PC081_20180715_083829_AAHScout_20180715083830a (162x162x1x1)
+Warning: Check that 2D images are not mirrored.
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/004_PC081_20180715_083829_AAHScout_20180715083830a.nii"
+Convert 1 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/004_PC081_20180715_083829_AAHScout_20180715083830b (162x162x1x1)
+Warning: Check that 2D images are not mirrored.
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/004_PC081_20180715_083829_AAHScout_20180715083830b.nii"
+slices stacked despite varying acquisition numbers (if this is not desired please recompile)
+Convert 245 DICOM as /projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/014_PC081_20180715_083829_Food_2_20180715083830 (104x104x72x245)
+compress: "/usr/bin/pigz" -n -f -6 "/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/sub-PC081_ses-wave1/014_PC081_20180715_083829_Food_2_20180715083830.nii"
+Conversion required 225.927205 seconds (8.677701 for core code).
+
+INFO:dcm2bids:
+INFO:dcm2bids:Sidecars matching:
+INFO:dcm2bids:NO MATCH        001_PC081_20180715_083..ut_20180715083830.json
+INFO:dcm2bids:NO MATCH        002_PC081_20180715_083..ut_20180715083830.json
+INFO:dcm2bids:NO MATCH        002_PC081_20180715_083..t_20180715083830a.json
+INFO:dcm2bids:NO MATCH        002_PC081_20180715_083..t_20180715083830b.json
+INFO:dcm2bids:NO MATCH        002_PC081_20180715_083..t_20180715083830c.json
+INFO:dcm2bids:NO MATCH        003_PC081_20180715_083..ut_20180715083830.json
+INFO:dcm2bids:NO MATCH        003_PC081_20180715_083..t_20180715083830a.json
+INFO:dcm2bids:NO MATCH        003_PC081_20180715_083..t_20180715083830b.json
+INFO:dcm2bids:NO MATCH        004_PC081_20180715_083..ut_20180715083830.json
+INFO:dcm2bids:NO MATCH        004_PC081_20180715_083..t_20180715083830a.json
+INFO:dcm2bids:NO MATCH        004_PC081_20180715_083..t_20180715083830b.json
+INFO:dcm2bids:NO MATCH        005_PC081_20180715_083..p2_20180715083830.json
+INFO:dcm2bids:MATCH           006_PC081_20180715_083..p2_20180715083830.json
+INFO:dcm2bids:MATCH           007_PC081_20180715_083.._1_20180715083830.json
+INFO:dcm2bids:MATCH           008_PC081_20180715_083.._2_20180715083830.json
+INFO:dcm2bids:MATCH           009_PC081_20180715_083..ap_20180715083830.json
+INFO:dcm2bids:MATCH           010_PC081_20180715_083..pa_20180715083830.json
+INFO:dcm2bids:MATCH           011_PC081_20180715_083.._1_20180715083830.json
+INFO:dcm2bids:MATCH           012_PC081_20180715_083.._2_20180715083830.json
+INFO:dcm2bids:MATCH           013_PC081_20180715_083.._1_20180715083830.json
+INFO:dcm2bids:MATCH           014_PC081_20180715_083.._2_20180715083830.json
+INFO:dcm2bids:
+INFO:dcm2bids:Checking if a description matches several sidecars ...
+INFO:dcm2bids:
+INFO:dcm2bids:moving acquisitions into BIDS output directory
