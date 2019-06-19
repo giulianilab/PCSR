@@ -1,0 +1,2 @@
+Example in:
+/projects/giuliani_lab/shared/PCSR/bids_data/tmp_dcm2bids/helper

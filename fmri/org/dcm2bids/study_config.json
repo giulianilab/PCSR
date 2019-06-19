@@ -1,0 +1,75 @@
+{
+    "descriptions": [
+        {
+            "dataType": "anat",
+            "modalityLabel": "T1w",
+            "criteria": {
+                "SeriesDescription": "mprage_p2"
+            }
+        },
+        {
+            "dataType": "func",
+            "modalityLabel": "bold",
+            "customLabels": "task-gng_acq-1",
+            "criteria": {
+                "SeriesDescription": "GNG_1"
+            }
+        },
+        {
+            "dataType": "func",
+            "modalityLabel": "bold",
+            "customLabels": "task-gng_acq-2",
+            "criteria": {
+                "SeriesDescription": "GNG_2"
+            }
+        },
+        {
+            "dataType": "func",
+            "modalityLabel": "bold",
+            "customLabels": "task-food_acq-1",
+            "criteria": {
+                "SeriesDescription": "Food_1"
+            }
+        },
+        {
+            "dataType": "func",
+            "modalityLabel": "bold",
+            "customLabels": "task-food_acq-2",
+            "criteria": {
+                "SeriesDescription": "Food_2"
+            }
+        },
+        {
+            "dataType": "func",
+            "modalityLabel": "bold",
+            "customLabels": "task-fla_acq-1",
+            "criteria": {
+                "SeriesDescription": "Flanker_1"
+            }
+        },
+        {
+            "dataType": "func",
+            "modalityLabel": "bold",
+           "customLabels": "task-fla_acq-2",
+            "criteria": {
+                "SeriesDescription": "Flanker_2"
+            }
+        },
+        {
+            "dataType": "fmap",
+            "modalityLabel": "epi",
+            "customLabels": "dir-ap",
+            "criteria": {
+                "SeriesDescription": "se_epi_mb3_g2_2mm_ap"
+            }
+        },
+        {
+            "dataType": "fmap",
+            "modalityLabel": "epi",
+            "customLabels": "dir-pa",
+            "criteria": {
+                "SeriesDescription": "se_epi_mb3_g2_2mm_pa"
+            }
+        }
+    ]
+}

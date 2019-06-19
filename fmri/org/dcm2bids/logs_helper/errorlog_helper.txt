@@ -1,0 +1,12 @@
+Incorrect dicom directory specified
+Test participant's folder does not exist - S001 
+S001
+
+Incorrect dicom directory specified
+Test participant's folder does not exist - PC001 
+PC001
+
+Incorrect dicom directory specified
+Test participant's folder does not exist - PC001_20171030 
+PC001_20171030
+
