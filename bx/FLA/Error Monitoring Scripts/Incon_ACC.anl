@@ -1,0 +1,39 @@
+
+{Begin Comments
+
+}
+{Begin Filters
+FlankerImage.RT
+
+4	200	1	2	1000
+RespType
+Commission	Correct
+
+TrialType
+IL	IR
+
+}
+{Begin Rows
+}
+{Begin Cols
+}
+{Begin Data
+FlankerImage.ACC	4
+}
+{Begin Options
+0
+0
+1
+0
+2
+2
+1
+1
+1
+0
+1
+1
+FlankerImage.ACC:Mean
+1
+FlankerImage.ACC:Mean
+}

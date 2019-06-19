@@ -1,0 +1,37 @@
+
+{Begin Comments
+
+}
+{Begin Filters
+FlankerImage.RT
+
+4	200	1	2	1000
+RespType
+Correct
+
+}
+{Begin Rows
+}
+{Begin Cols
+CellNumber	1
+}
+{Begin Data
+FlankerImage.RT	4
+}
+{Begin Options
+0
+0
+1
+0
+2
+2
+1
+1
+1
+0
+700
+1
+FlankerImage.RT:Mean by CellNumber
+1
+FlankerImage.RT:Mean
+}
